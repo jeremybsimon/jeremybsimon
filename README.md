@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👨🏼‍💻 Me 
+Hi, I'm Jeremy Simon, a software developer with a passion for front-end development. I'm currently a student at Hogeschool van Amsterdam and a DevOps Engineer at Ahold Delhaize.
 
-<!--
-**jeremybsimon/jeremybsimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Skills
 
-Here are some ideas to get you started:
+### Programming Languages
+[![Programming Languages](https://skillicons.dev/icons?i=js,ts,java,kotlin,html,css,)]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frameworks
+[![Frameworks](https://skillicons.dev/icons?i=react,next,tailwind,angular,spring,graphql)]()
+
+### Tools
+[![Frameworks](https://skillicons.dev/icons?i=docker,git,gitlab,github,githubactions,postman,idea,vscode)]()
