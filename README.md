@@ -10,4 +10,4 @@ Hi, I'm Jeremy Simon, a software developer with a passion for front-end developm
 [![Frameworks](https://skillicons.dev/icons?i=react,next,tailwind,angular,spring,graphql)]()
 
 ### Tools
-[![Frameworks](https://skillicons.dev/icons?i=docker,git,gitlab,github,githubactions,postman,idea,vscode)]()
+[![Frameworks](https://skillicons.dev/icons?i=docker,git,gitlab,github,githubactions,androidstudio,postman,idea,webstorm,vscode)]()
