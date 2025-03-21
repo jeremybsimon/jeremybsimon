@@ -1,5 +1,5 @@
 ## 👨🏼‍💻 Me 
-Hi, I'm Jeremy Simon, a software developer with a passion for front-end development. I'm currently a student at Hogeschool van Amsterdam and a DevOps Engineer at Ahold Delhaize.
+Hi, I'm Jeremy Simon, a software developer with a passion for front-end development. I'm currently a DevOps Engineer at Ahold Delhaize.
 
 ## 🛠️ Skills
 
